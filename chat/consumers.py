@@ -7,5 +7,5 @@ class ChatRoomConsumer(AsyncWebsocketConsumer):
         self.room_group_name = 'chat_%s' % self.room_name
         
         await (
-        
+            
         )
